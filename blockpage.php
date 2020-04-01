@@ -78,7 +78,7 @@
 			<p><i>
 				Willful copyright infringement is a federal crime that carries penalties for first time offenders of up to five years in federal prison, a $250,000 fine, forfieture and restitution (17 U.S.C &sect; 506, 18 U.S.C &sect; 2319). Intentionally and knowingly trafficing counterfeit goods is a federal crime that carries penalties for first time offenders of up to ten years in federal prison, a $2,000,000 fine, forfeiture and restitution (18 U.S.C. &sect; 2320).
 			</i></p>
-			<button id="yeet" style="width:200px;height:75px">ha ha funny prank, click here to use memecitations</button>
+			<button id="yeet" style="width:200px;height:75px;border-radius: 5px">ha ha funny prank, click here to use memecitations</button>
 			<script>
 				document.getElementById("yeet").addEventListener("click", () => {
 					document.cookie = "april=yeet;expires=Sun, 26 Apr 2020 01:30:00 GMT;path=/";
