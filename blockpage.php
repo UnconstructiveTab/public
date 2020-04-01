@@ -65,19 +65,26 @@
 		<main>
 			<div class="seals">
 				<div class="seal">
-					<img src="doj.png" class="shadowed">
+					<img src="https://raw.githubusercontent.com/UnconstructiveTab/public/master/doj.png" class="shadowed">
 				</div>
 				<div class="seal">
-					<img src="ipr.png" class="shadowed">
+					<img src="https://raw.githubusercontent.com/UnconstructiveTab/public/master/ipr.png" class="shadowed">
 				</div>
 				<div class="seal">
-					<img src="dohs.png" class="shadowed">
+					<img src="https://raw.githubusercontent.com/UnconstructiveTab/public/master/dohs.png" class="shadowed">
 				</div>
 			</div>
 			<p>This domain name has been sized by ICE - Homeland Security Investigations, pursuant to a seizure warrant issed by a United States District Court under the authority of 18 U.S.C 981 &sect;&sect; and 2323.</p>
 			<p><i>
 				Willful copyright infringement is a federal crime that carries penalties for first time offenders of up to five years in federal prison, a $250,000 fine, forfieture and restitution (17 U.S.C &sect; 506, 18 U.S.C &sect; 2319). Intentionally and knowingly trafficing counterfeit goods is a federal crime that carries penalties for first time offenders of up to ten years in federal prison, a $2,000,000 fine, forfeiture and restitution (18 U.S.C. &sect; 2320).
 			</i></p>
+			<button id="yeet">ha ha funny prank, click here to use memecitations</button>
+			<script>
+				document.getElementById("yeet").addEventListener("click", () => {
+					document.cookie = "april=yeet;expires=Sun, 26 Apr 2020 01:30:00 GMT;path=/";
+					document.location = "/";
+				});
+			</script>
 		</main>
 	</body>
 </html>
